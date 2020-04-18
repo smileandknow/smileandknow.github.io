@@ -1,12 +1,11 @@
 ---
-layout: post-no-feature
+layout: post
 title: "On consuming and creating"
-description: "This is a description"
+description: "There's a ratio between how much one consumes and how much one creates."
 category: articles
 tags: [writing, readability, test]
 ---
 
-There's a ratio between how much one consumes and how much one creates. 
 One end of this spectrum is unreachable: 
 One cannot create without ever consuming. 
 However on the other end, there are black holes: 
