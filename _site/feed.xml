@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Smile and Know</title>
+<subtitle type="text">A Blog.</subtitle>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2020-04-28T16:03:58+02:00</updated>
+<id>/</id>
+<author>
+  <name>Bastian Hagedorn</name>
+  <uri>/</uri>
+  <email>hagedornbastian@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[On writing and having written]]></title>
+  <link rel="alternate" type="text/html" href="/articles/on-writing-and-having-written" />
+  <id>/articles/on-writing-and-having-written</id>
+  <published>2020-04-28T00:00:00+02:00</published>
+  <updated>2020-04-28T00:00:00+02:00</updated>
+  <author>
+    <name>Bastian Hagedorn</name>
+    <uri></uri>
+    <email>hagedornbastian@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;this is yet to come&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/on-writing-and-having-written&quot;&gt;On writing and having written&lt;/a&gt; was originally published by Bastian Hagedorn at &lt;a href=&quot;&quot;&gt;Smile and Know&lt;/a&gt; on April 28, 2020.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[On progressive and maintaining tasks]]></title>
+  <link rel="alternate" type="text/html" href="/articles/on-progressive-and-maintaining-tasks" />
+  <id>/articles/on-progressive-and-maintaining-tasks</id>
+  <published>2020-04-28T00:00:00+02:00</published>
+  <updated>2020-04-28T00:00:00+02:00</updated>
+  <author>
+    <name>Bastian Hagedorn</name>
+    <uri></uri>
+    <email>hagedornbastian@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;this is yet to come&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/on-progressive-and-maintaining-tasks&quot;&gt;On progressive and maintaining tasks&lt;/a&gt; was originally published by Bastian Hagedorn at &lt;a href=&quot;&quot;&gt;Smile and Know&lt;/a&gt; on April 28, 2020.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[On consuming and creating]]></title>
+  <link rel="alternate" type="text/html" href="/articles/on-consuming-and-creating" />
+  <id>/articles/on-consuming-and-creating</id>
+  <published>2020-04-08T00:00:00+02:00</published>
+  <updated>2020-04-08T00:00:00+02:00</updated>
+  <author>
+    <name>Bastian Hagedorn</name>
+    <uri></uri>
+    <email>hagedornbastian@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Assume your next hour is completely free and you’ve got no urgent tasks to take care of. 
+How do you spend it? 
+Do you pick up a book? 
+Do you listen to a podcast? 
+Do you browse the latest headlines? 
+Or instead, do you learn to cook something for sharing it with loved ones? 
+Do you start working on this project you’ve been postponing? 
+Do you create or do you consume?&lt;/p&gt;
+
+&lt;p&gt;One end of this spectrum is unreachable: 
+One cannot create without ever consuming. 
+However on the other end, there are black holes: 
+people who endlessly take in everything without returning, that is creating, anything. 
+I’m a black hole. This is my attempt to change this.&lt;/p&gt;
+
+&lt;p&gt;It’s about what and how much to take in versus how to procees and what to make of it. 
+Regardless of how mindfully one chooses what to consume, the ratio stays the same as long as there’s nothing actively created. 
+The emphasis is on “actively”. 
+Obviously my consumption greatly influences me personally. 
+By extension it then also somewhat affects the people close to me. 
+One could argue that me influencing others this way is already creating something in someone.&lt;/p&gt;
+
+&lt;p&gt;However, this active way of consuming but passive way of “creating” seems unbalanced and feeds an increasing urge to create something as actively and as mindfully as I consume. 
+This is it. 
+This is my collection of thoughts.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/on-consuming-and-creating&quot;&gt;On consuming and creating&lt;/a&gt; was originally published by Bastian Hagedorn at &lt;a href=&quot;&quot;&gt;Smile and Know&lt;/a&gt; on April 08, 2020.&lt;/p&gt;</content>
+</entry>
+
+</feed>

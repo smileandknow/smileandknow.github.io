@@ -1,19 +1,19 @@
 title:            Smile and Know
 tagline:          A Blog.
 description:      Some sort of blog.
-canonical: http://jekyll.gtat.me
+canonical: http://smileandknow.github.io
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Bastian Hagedorn
   avatar:         avatar.png
   bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
+  email:          hagedornbastian@gmail.com
+  twitter:        
+  github:         
+  instagram:      
+  dribbble:       
+  disqus:         
   location:       "Buffalo, NY"
   # Plug in your disqus shortname!
 
@@ -28,6 +28,10 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Questions
+    url: /questions
+  - title: Inspiration
+    url: /inspiration
   - title: About
     url: /about
     #  - title: Github

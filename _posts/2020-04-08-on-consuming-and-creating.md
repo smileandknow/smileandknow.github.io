@@ -6,6 +6,15 @@ category: articles
 tags: [writing, readability, test]
 ---
 
+Assume your next hour is completely free and you've got no urgent tasks to take care of. 
+How do you spend it? 
+Do you pick up a book? 
+Do you listen to a podcast? 
+Do you browse the latest headlines? 
+Or instead, do you learn to cook something for sharing it with loved ones? 
+Do you start working on this project you've been postponing? 
+Do you create or do you consume?
+
 One end of this spectrum is unreachable: 
 One cannot create without ever consuming. 
 However on the other end, there are black holes: 
