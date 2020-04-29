@@ -4,6 +4,8 @@ title: "On consuming and creating"
 description: "There's a ratio between how much one consumes and how much one creates."
 category: articles
 tags: [writing, readability, test]
+image:
+  feature: tv.jpg
 ---
 
 <!---

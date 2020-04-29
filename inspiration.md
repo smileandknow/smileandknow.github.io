@@ -5,7 +5,7 @@ title: Things that spark inspiration.
 description: A random collection of things I come across
 tags: [about, Jekyll, theme, responsive]
 image:
-  feature: coffee.jpg
+  feature: books.jpg
 ---
 
 Quotes:
