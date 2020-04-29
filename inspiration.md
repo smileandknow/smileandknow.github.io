@@ -8,7 +8,7 @@ image:
   feature: books.jpg
 ---
 
-Quotes:
+Quotes (in no particular order):
 * _The first principle is that you must not fool yourself - and you're the easiest person to fool_ -- Richard Feynamn
 * _Everything you want is on the other side of fear_ <br> -- Eleanor Roosevelt
 * _If you are not failing, you are not trying hard enough_ <br> -- Gretchen Rubin (The Happiness Project)
