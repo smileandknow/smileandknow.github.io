@@ -19,10 +19,10 @@ I do like to eat sweets, but I regret having eaten them.
 I do like to gossip, but I despise having gossiped.
 I do like to procrastinate, but I despise having so many tasks left undone.
 
-It's about overcoming the obstacle in the moment to eventually enjoy the delayed gratifaction.
+It's about overcoming the obstacle in the moment to eventually enjoy the delayed gratification.
 In some cases, it's easy to "do what is good" because the delayed gratification is actually not too far down the line:
 Getting up in the morning for instance, "simply" requires standing up once the alarm rings.
-As soon as I sit in my comfortable living room 15 minutes later, starting my day reading a book in silence with dimned lights while slowely watching the sun rise, I remember why it is worth it.
+As soon as I sit in my comfortable living room 15 minutes later, starting my day reading a book in silence with dimmed lights while slowly watching the sun rise, I remember why it is worth it.
 
 ...
 <!---
