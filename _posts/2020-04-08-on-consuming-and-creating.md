@@ -6,6 +6,7 @@ category: articles
 tags: [writing, readability, test]
 ---
 
+<!---
 Assume your next hour is completely free and you've got no urgent tasks to take care of. 
 How do you spend it? 
 Do you pick up a book? 
@@ -31,3 +32,4 @@ One could argue that me influencing others this way is already creating somethin
 However, this active way of consuming but passive way of "creating" seems unbalanced and feeds an increasing urge to create something as actively and as mindfully as I consume. 
 This is it. 
 This is my collection of thoughts.
+-->

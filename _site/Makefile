@@ -1,2 +1,3 @@
 all:
-	bundle exec jekyll serve  --incremental --trace
+	jekyll build --watch
+#	bundle exec jekyll serve  --incremental --trace

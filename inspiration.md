@@ -1,19 +1,19 @@
 ---
 layout: post
 permalink: /inspiration/index.html
-title: Things that inspire me. 
-description: Just a random collection 
+title: Things that spark inspiration. 
+description: A random collection of things I come across
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: coffee.jpg
 ---
 
-Inspiring Quotes:
+Quotes:
 * _The first principle is that you must not fool yourself - and you're the easiest person to fool_ -- Richard Feynamn
-* _Everything you want is on the other side of fear_ -- Eleanor Roosevelt
-* _If you are not failing, you are not trying hard enough_ -- Gretchen Rubin (The Happiness Project)
+* _Everything you want is on the other side of fear_ <br> -- Eleanor Roosevelt
+* _If you are not failing, you are not trying hard enough_ <br> -- Gretchen Rubin (The Happiness Project)
 * _I don't like to write, but I take great pleasure in having written_ -- William Zisser (Write to Learn)
-* _What I couldn't live with was losing hours, days, and weeks of my life to things that didn't matter_ -- Cait Flanders (The year of less)
+* _What I couldn't live with was losing hours, days, and weeks of my life to things that didn't matter_ <br>-- Cait Flanders (The year of less)
 
 ***
 
