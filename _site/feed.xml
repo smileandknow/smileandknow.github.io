@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2020-04-29T14:34:21+02:00</updated>
+<updated>2020-04-30T12:02:48+02:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Bastian Hagedorn</name>
@@ -18,18 +18,18 @@
   <title type="html"><![CDATA[On writing and having written]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/articles/on-writing-and-having-written" />
   <id>http://localhost:4000/articles/on-writing-and-having-written</id>
-  <published>2020-04-28T00:00:00+02:00</published>
-  <updated>2020-04-28T00:00:00+02:00</updated>
+  <published>2020-04-30T00:00:00+02:00</published>
+  <updated>2020-04-30T00:00:00+02:00</updated>
   <author>
     <name>Bastian Hagedorn</name>
     <uri>http://localhost:4000</uri>
     <email>hagedornbastian@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;Recently, I came across a quote that immediately stood out to me:&lt;/p&gt;
+  <content type="html">&lt;!--- Recently, I came across a quote that immediately stood out to me:  --&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;I don’t like to write, but I take great pleasure in having written. &lt;br /&gt;
-– William Zisser (Write to Learn)&lt;/p&gt;
+– William Zisser (Writing to Learn)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;I don’t consider myself a writer, but I know this feeling all too well:
@@ -39,30 +39,52 @@ I don’t like to get up early in the morning, but I take great pleasure in star
 &lt;p&gt;Sometimes, the opposite is just as true:
 I do like to eat sweets, but I regret having eaten them.
 I do like to gossip, but I despise having gossiped.
-I do like to procrastinate, but I despise having so many tasks left undone.&lt;/p&gt;
+I do like to procrastinate, but I loathe having many tasks left undone.&lt;/p&gt;
 
-&lt;p&gt;It’s same question every time:
-&lt;em&gt;Do you overcome the obstacle in the current moment, or do you give in and seek immediate pleasure?&lt;/em&gt;
-The more time there is between challenge and delayed gratification, the harder it is to withstand the temptation to give in.
-Getting up early in the morning for instance, is easy because as soon as I sit in my armchair 15 minutes later, starting my day reading a book in silence, dimmed lights in the living room while the sun slowly rises, I remember it was totally worth it.&lt;/p&gt;
+&lt;p&gt;It’s the same question every time:&lt;/p&gt;
 
-&lt;p&gt;Other things, like working out for example, require more willpower and discipline.
-It’s not only hard to convince yourself to do it in the first place. 
-Sometimes it feels awful
-you might regret it while doing it and finishing it doesn’t help that much either.
-Working out might be a bad example because endorphins flood your body afterwards 
-However, there a challenges where the only reward in the moment after the challenge is the thought of having done the right thing.
-Even if it doesn’t feel like it.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Do you overcome the obstacle in the current moment, or do you give in and seek immediate pleasure?&lt;/em&gt;&lt;/p&gt;
 
-&lt;!--- goggins: I brainwashed myself into craving discomfort --&gt;
-&lt;p&gt;The one things that helps are systems and habits.
-The goal is to not be challenged in the first place.&lt;/p&gt;
+&lt;p&gt;The more time there is between challenge and delayed gratification, the harder it is to withstand the temptation to give in.
+Getting up early in the morning for instance, is easy because as soon as I sit in my armchair 15 minutes later, starting my day reading a book in silence with dimmed lights in the living room while the sun slowly rises outside, I remember it was totally worth it.&lt;/p&gt;
 
-&lt;p&gt;Things like working out often require more willpower or self-disciplie because I don’t see immediate benefits.
-Sometimes it helps thinking about what the future-me would think about it.
-Would it be indifferent about the choice in the moment, would it be in favour or strongly against what I’m considering to do?&lt;/p&gt;
+&lt;p&gt;Other challenges require more willpower and discipline.
+Working out for example, is a lasting and recurrent challenge that is physically exhausting - by definition.
+It is tiring in the moment, leaves you exhausted, and rewards you with an aching body the next day.
+To make matters worse, it takes consistency over an extended period of time in order to see the results.
+Without endorphins flooding your body after exercising, it would be torturous to keep up with a consistent exercise routine.
+Nevertheless, there are challenges where the only immediate reward is the thought of having done “the right thing”.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/on-writing-and-having-written&quot;&gt;On writing and having written&lt;/a&gt; was originally published by Bastian Hagedorn at &lt;a href=&quot;http://localhost:4000&quot;&gt;Smile and Know&lt;/a&gt; on April 28, 2020.&lt;/p&gt;</content>
+&lt;p&gt;The key to not giving in is to not be challenged in the first place.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;I brainwashed myself into craving discomfort. &lt;br /&gt;
+– David Goggins (Can’t Hurt Me)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Setting up systems, routines, and habits allows to mindlessly do what you set yourself up to.
+Work out the same time every day, be it first thing in the morning or immediately after work, no matter what.
+Make all important things opt-out in the calendar.
+Try Matt D’Avella’s &lt;a href=&quot;https://www.youtube.com/watch?v=bfLHTLQZ5nc&quot;&gt;Two Day Rule&lt;/a&gt; where you’re allowed to skip one day but never two in a row.
+Make it a question about identity rather than the action:
+Are you simply the person who avoids eating processed sugar in general, or do you constantly use willpower to actively decide against it in the moment? 
+Figure out what works for you.&lt;/p&gt;
+
+&lt;p&gt;Eventually it’s about finding something to blame.
+It’s about avoiding the need to decide because something has already decided for you:
+“Sorry, I’ve got to work out today since I already skipped yesterday and I’m following the two day rule”.
+“It’s 5am - time to meditate like I do every day”, or “Desert? No thanks, I’m avoiding processed sugars.”
+Oh, and please don’t say it out loud. 
+You don’t want to be someone preaching his personal system to everyone else without having been asked.&lt;/p&gt;
+
+&lt;p&gt;It’s not gonna be easy and there will be multiple setbacks, but&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It’s time to go to war with yourself. &lt;br /&gt;
+– David Goggins (Can’t Hurt Me)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/on-writing-and-having-written&quot;&gt;On writing and having written&lt;/a&gt; was originally published by Bastian Hagedorn at &lt;a href=&quot;http://localhost:4000&quot;&gt;Smile and Know&lt;/a&gt; on April 30, 2020.&lt;/p&gt;</content>
 </entry>
 
 
