@@ -17,7 +17,7 @@ I don't like to get up early in the morning, but I take great pleasure in starti
 Sometimes, the opposite is just as true:
 I do like to eat sweets, but I regret having eaten them.
 I do like to gossip, but I despise having gossiped.
-I do like to procrastinate, but I loathe having many tasks left undone.
+I do like to procrastinate, but I loathe staring at the same task in my list that just does not seem to disappear.
 
 It's the same question every time:
 
@@ -28,10 +28,18 @@ Getting up early in the morning for instance, is easy because as soon as I sit i
 
 Other challenges require more willpower and discipline.
 Working out for example, is a lasting and recurrent challenge that is physically exhausting - by definition.
-It is tiring in the moment, leaves you exhausted, and rewards you with an aching body the next day.
+
+> Pain is inevitable. Suffering is optional. <br>
+> – Haruki Murakami (What I Talk About When I Talk About Running)
+
+Working out is tiring in the moment, leaves you exhausted, and sometimes rewards you with an aching body the next day.
 To make matters worse, it takes consistency over an extended period of time in order to see the results.
 Without endorphins flooding your body after exercising, it would be torturous to keep up with a consistent exercise routine.
-Nevertheless, there are challenges where the only immediate reward is the thought of having done "the right thing".
+
+The later in the day it is, the harder it is to withstand challenges too.
+People call this willpower depletion and they argue that willpower behaves like a muscle:
+You use a little of your finite willpower-strength for every challenge you face throughout your day.
+The more challenges we face, the more tired your willpower muscle is in the evening.
 
 The key to not giving in is to not be challenged in the first place.
 > I brainwashed myself into craving discomfort. <br>
@@ -52,7 +60,8 @@ It's about avoiding the need to decide because something has already decided for
 Oh, and please don't say it out loud. 
 You don't want to be someone preaching his personal system to everyone else without having been asked.
 
-It's not gonna be easy and there will be multiple setbacks, but
+Finding systems that work for you is an ongoing process of experimentation.
+It's not gonna be easy and there will be multiple setbacks but
 
 > It's time to go to war with yourself. <br>
 > – David Goggins (Can't Hurt Me)

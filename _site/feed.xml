@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2020-04-30T12:02:48+02:00</updated>
+<updated>2020-05-03T07:17:50+02:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Bastian Hagedorn</name>
@@ -39,7 +39,7 @@ I don’t like to get up early in the morning, but I take great pleasure in star
 &lt;p&gt;Sometimes, the opposite is just as true:
 I do like to eat sweets, but I regret having eaten them.
 I do like to gossip, but I despise having gossiped.
-I do like to procrastinate, but I loathe having many tasks left undone.&lt;/p&gt;
+I do like to procrastinate, but I loathe staring at the same task in my list that just does not seem to disappear.&lt;/p&gt;
 
 &lt;p&gt;It’s the same question every time:&lt;/p&gt;
 
@@ -49,11 +49,21 @@ I do like to procrastinate, but I loathe having many tasks left undone.&lt;/p&gt
 Getting up early in the morning for instance, is easy because as soon as I sit in my armchair 15 minutes later, starting my day reading a book in silence with dimmed lights in the living room while the sun slowly rises outside, I remember it was totally worth it.&lt;/p&gt;
 
 &lt;p&gt;Other challenges require more willpower and discipline.
-Working out for example, is a lasting and recurrent challenge that is physically exhausting - by definition.
-It is tiring in the moment, leaves you exhausted, and rewards you with an aching body the next day.
+Working out for example, is a lasting and recurrent challenge that is physically exhausting - by definition.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Pain is inevitable. Suffering is optional. &lt;br /&gt;
+– Haruki Murakami (What I Talk About When I Talk About Running)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Working out is tiring in the moment, leaves you exhausted, and sometimes rewards you with an aching body the next day.
 To make matters worse, it takes consistency over an extended period of time in order to see the results.
-Without endorphins flooding your body after exercising, it would be torturous to keep up with a consistent exercise routine.
-Nevertheless, there are challenges where the only immediate reward is the thought of having done “the right thing”.&lt;/p&gt;
+Without endorphins flooding your body after exercising, it would be torturous to keep up with a consistent exercise routine.&lt;/p&gt;
+
+&lt;p&gt;The later in the day it is, the harder it is to withstand challenges too.
+People call this willpower depletion and they argue that willpower behaves like a muscle:
+You use a little of your finite willpower-strength for every challenge you face throughout your day.
+The more challenges we face, the more tired your willpower muscle is in the evening.&lt;/p&gt;
 
 &lt;p&gt;The key to not giving in is to not be challenged in the first place.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -76,7 +86,8 @@ It’s about avoiding the need to decide because something has already decided f
 Oh, and please don’t say it out loud. 
 You don’t want to be someone preaching his personal system to everyone else without having been asked.&lt;/p&gt;
 
-&lt;p&gt;It’s not gonna be easy and there will be multiple setbacks, but&lt;/p&gt;
+&lt;p&gt;Finding systems that work for you is an ongoing process of experimentation.
+It’s not gonna be easy and there will be multiple setbacks but&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;It’s time to go to war with yourself. &lt;br /&gt;
@@ -99,8 +110,19 @@ You don’t want to be someone preaching his personal system to everyone else wi
     <uri>http://localhost:4000</uri>
     <email>hagedornbastian@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;this is yet to come&lt;/p&gt;
+  <content type="html">&lt;!---
+Let me oversimplify and say that there are two kinds of tasks you're dealing with everyday.
+Task that maintain things and tasks that allow you to progress.
 
+Tasks that maintain things tend to be recurring and restore the order.
+I think about thinks like washing clothes, cleaning up the kitchen, taking trash out etc.
+They maintain a certain order and just have to done.
+
+Progressive tasks however, make somethings better instead of restoring the old status.
+Progressive tasks improve something in a way that makes it a certain bit better than it was yesterday.
+I think about things like putting up a new shelf or planting something in your garden.
+
+--&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/on-progressive-and-maintaining-tasks&quot;&gt;On progressive and maintaining tasks&lt;/a&gt; was originally published by Bastian Hagedorn at &lt;a href=&quot;http://localhost:4000&quot;&gt;Smile and Know&lt;/a&gt; on April 28, 2020.&lt;/p&gt;</content>
 </entry>
