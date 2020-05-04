@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On writing and having written"
-description: "Ruminations about delayed gratification."
+description: "Thoughts about delayed gratification."
 category: articles
 tags: [writing, readability, test]
 ---
@@ -60,7 +60,7 @@ It's about avoiding the need to decide because something has already decided for
 Oh, and please don't say it out loud. 
 You don't want to be someone preaching his personal system to everyone else without having been asked.
 
-Finding systems that work for you is an ongoing process of experimentation.
+Finding systems that work for you is an ongoing process that requires experimentation.
 It's not gonna be easy and there will be multiple setbacks but
 
 > It's time to go to war with yourself. <br>
